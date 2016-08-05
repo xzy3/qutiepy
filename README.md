@@ -111,7 +111,7 @@ should only be used when you *know* the records are UGE formatted. As they will
 cause a panic if the records are requested from a OGE record.
 
 ## filter
-Select records from the accounting log strem based on an expressive LDAP inspired filter syntax.
+Select records from the accounting log stream based on an expressive LDAP inspired filter syntax.
 
 ### Subcommand Summary
 
